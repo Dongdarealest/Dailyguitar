@@ -1,0 +1,36 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+   }
+   
+   /* Body Styles */
+   body {
+     font-family: Arial, sans-serif;
+     background-color: #f2f2f2;
+     text-align: center;
+     padding-top: 100px;
+   }
+   
+   /* Heading Styles */
+   h1 {
+     color: #333;
+     font-size: 24px;
+     margin-bottom: 20px;
+   }
+   
+   /* Button Styles */
+   .invite-button {
+     display: inline-block;
+     padding: 10px 20px;
+     background-color: #7289DA;
+     color: #fff;
+     font-size: 16px;
+     text-decoration: none;
+     border-radius: 5px;
+     transition: background-color 0.3s ease;
+   }
+   
+   .invite-button:hover {
+     background-color: #5d6cbf;
+   }
