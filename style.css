@@ -30,7 +30,7 @@
      border-radius: 5px;
      transition: background-color 0.3s ease;
    }
-   
+
    .invite-button:hover {
      background-color: #5d6cbf;
    }
